@@ -1,0 +1,131 @@
+h2 {
+  color: blue;
+}
+span {
+  color: blue;
+}
+
+.data {
+  display: flex;
+  justify-content: center;
+}
+.data1 {
+  margin-left: 550px;
+  justify-content: center;
+  margin-top: 10px;
+}
+.b1 {
+  width: 50px;
+  height: 20px;
+  border-radius: 24px;
+  border-color: blue;
+}
+.data2 {
+  padding: 60px;
+  background-color: whitesmoke;
+  border-radius: 7px;
+  height: 300px;
+  margin-top: 50px;
+  text-align: center;
+  color: blueviolet;
+}
+.data3 {
+  padding: 80px;
+  background-color: rgb(98, 32, 165);
+  border-radius: 7px;
+  color: aliceblue;
+  margin-top: 20px;
+  text-align: center;
+}
+.data4 {
+  padding: 60px;
+  background-color: whitesmoke;
+  border-radius: 7px;
+  height: 300px;
+  margin-top: 50px;
+  text-align: center;
+  color: blueviolet;
+}
+
+body {
+  background-color: aqua;
+  overflow: hidden;
+}
+#lname1 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: large;
+}
+#lname2 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: 30px;
+}
+#lname3 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+#lname4 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+#lname5 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+#lname6 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+#lname7 {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+  font-size: large;
+  padding-top: 5px;
+  padding-left: 20px;
+  background-color: blue;
+  color: blue;
+}
+.line1 {
+  height: 1px;
+  background: rgb(173, 159, 159);
+}
+button {
+  padding: 12px;
+  width: 250px;
+}
+.b2 {
+  color: blue;
+  margin-top: 10px;
+}
+
+.b3 {
+  background-color: rgb(28, 28, 83);
+  color: white;
+  margin-top: 25px;
+}
